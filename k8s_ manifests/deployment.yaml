@@ -17,7 +17,7 @@ spec:
         app: animequotesapp
     spec:
       containers:
-        - image: chinmaykubal/animequotesapp:20
+        - image: chinmaykubal/animequotesapp:19
           name: animequotesapp
           ports:
             - containerPort: 3000
