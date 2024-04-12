@@ -4,6 +4,7 @@ metadata:
   labels:
     app: animequotesapp
   name: animequotesapp
+  namespace: animequotes-ns
 spec:
   replicas: 2
   selector:

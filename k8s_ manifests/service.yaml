@@ -4,6 +4,7 @@ metadata:
   labels:
     app: animequotesapp
   name: animequotesapp-svc
+  namespace: animequotes-ns
 spec:
   ports:
     - port: 3000
