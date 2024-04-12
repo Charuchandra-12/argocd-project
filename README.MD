@@ -34,7 +34,7 @@
 
 **ArgoCD Sync. Successfull**
 
-![alt text](<project-pics/Screenshot 2024-04-12 at 1.38.43 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.31.13 PM.png>)
 
 **Get the IP of the LB service type of the deployment**
 
