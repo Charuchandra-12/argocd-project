@@ -1,6 +1,66 @@
 ## Create an EKS Cluster
 
-photos here with names
+**Create roles for EKS and EC2**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 12.30.42 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 12.31.21 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 12.32.30 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 12.39.16 PM.png>)
+
+**Create k8s cluster and node group**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.01.54 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.07.59 PM.png>)
+
+**Configure cloudshell to connect to our EKS cluster**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.07.59 PM.png>)
+
+**Install the ArgoCD in K8s cluster**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.15.54 PM.png>)
+
+**Configure ArgoCD to access it publicly**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.21.00 PM.png>)
+
+**Get the passcode for the ArgoCD**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.21.00 PM.png>)
+
+**Connect the ArgoCD to git repo for the k8s manifests**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.29.22 PM.png>)
+
+**ArgoCD Sync. Successfull**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.29.22 PM.png>)
+
+**Get the IP of the LB service type of the deployment**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.36.12 PM.png>)
+
+**Access the application**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.36.41 PM.png>)
+
+**Note the apllication tag**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.37.57 PM.png>)
+
+**CD Pipeline synced successfully after changing the tag**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.38.43 PM.png>)
+
+**Application tag changed**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.39.22 PM.png>)
+
+**Application Review**
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.40.50 PM.png>)
+
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.41.09 PM.png>)
 
 ## Install ArgoCD
 
