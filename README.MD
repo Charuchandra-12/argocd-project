@@ -14,7 +14,7 @@
 
 **Configure cloudshell to connect to our EKS cluster**
 
-![alt text](<project-pics/Screenshot 2024-04-12 at 1.07.59 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.12.52 PM.png>)
 
 **Install the ArgoCD in K8s cluster**
 
@@ -34,7 +34,7 @@
 
 **ArgoCD Sync. Successfull**
 
-![alt text](<project-pics/Screenshot 2024-04-12 at 1.29.22 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.38.43 PM.png>)
 
 **Get the IP of the LB service type of the deployment**
 
