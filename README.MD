@@ -16,7 +16,7 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 **https://argo-cd.readthedocs.io/en/stable/getting_started/#service-type-load-balancer**
 
 ```
-kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}
+kubectl patch svc argocd-server -n argocd -p '{"spec": {"type": "LoadBalancer"}}'
 ```
 
 ## Get the Admin Passcode
