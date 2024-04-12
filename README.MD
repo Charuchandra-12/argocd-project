@@ -26,7 +26,7 @@
 
 **Get the passcode for the ArgoCD**
 
-![alt text](<project-pics/Screenshot 2024-04-12 at 1.21.00 PM.png>)
+![alt text](<project-pics/Screenshot 2024-04-12 at 1.22.23 PM.png>)
 
 **Connect the ArgoCD to git repo for the k8s manifests**
 
